@@ -1,0 +1,439 @@
+Feb 18, 2026 8:07:16 AM ElPaisScraper main
+INFO: === El País Opinion Scraper Started ===
+Feb 18, 2026 8:07:18 AM ElPaisScraper navigateToOpinionSection
+INFO: Navigating to El País...
+Feb 18, 2026 8:07:29 AM ElPaisScraper navigateToOpinionSection
+INFO: Cookies accepted
+Feb 18, 2026 8:07:41 AM ElPaisScraper navigateToOpinionSection
+INFO: Navigated to Opinion section
+Feb 18, 2026 8:07:41 AM ElPaisScraper main
+INFO: Found 27 articles. Processing first 5...
+Feb 18, 2026 8:07:41 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: 
+=== Processing Article 1/5 ===
+Feb 18, 2026 8:07:52 AM ElPaisScraper scrapeArticle
+WARNING: Image not available for article 1
+Feb 18, 2026 8:07:53 AM ElPaisScraper translateText
+WARNING: Translation failed: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+Feb 18, 2026 8:07:53 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: ES: Cerrar la brecha educativa
+Feb 18, 2026 8:07:53 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: EN: Cerrar la brecha educativa
+Feb 18, 2026 8:07:54 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: 
+=== Processing Article 2/5 ===
+Feb 18, 2026 8:08:04 AM ElPaisScraper scrapeArticle
+WARNING: Image not available for article 2
+Feb 18, 2026 8:08:05 AM ElPaisScraper translateText
+WARNING: Translation failed: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+Feb 18, 2026 8:08:05 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: ES: Las amenazas electorales de Trump
+Feb 18, 2026 8:08:05 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: EN: Las amenazas electorales de Trump
+Feb 18, 2026 8:08:06 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: 
+=== Processing Article 3/5 ===
+Feb 18, 2026 8:08:16 AM ElPaisScraper scrapeArticle
+WARNING: Image not available for article 3
+Feb 18, 2026 8:08:17 AM ElPaisScraper translateText
+WARNING: Translation failed: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+Feb 18, 2026 8:08:17 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: ES: Me ha escrito un hombre rico, el dueño de Telegram
+Feb 18, 2026 8:08:17 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: EN: Me ha escrito un hombre rico, el dueño de Telegram
+Feb 18, 2026 8:08:18 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: 
+=== Processing Article 4/5 ===
+Feb 18, 2026 8:08:19 AM ElPaisScraper scrapeArticle
+INFO: Image saved: downloads/images/article_04_Toda esta libertad que no querría perder.jpg
+Feb 18, 2026 8:08:20 AM ElPaisScraper translateText
+WARNING: Translation failed: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+Feb 18, 2026 8:08:20 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: ES: Toda esta libertad que no querría perder
+Feb 18, 2026 8:08:20 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: EN: Toda esta libertad que no querría perder
+Feb 18, 2026 8:08:21 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: 
+=== Processing Article 5/5 ===
+Feb 18, 2026 8:08:21 AM ElPaisScraper scrapeArticle
+INFO: Image saved: downloads/images/article_05_Moteras iraníes.jpg
+Feb 18, 2026 8:08:22 AM ElPaisScraper translateText
+WARNING: Translation failed: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+Feb 18, 2026 8:08:22 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: ES: ‘Moteras iraníes’
+Feb 18, 2026 8:08:22 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: EN: ‘Moteras iraníes’
+Feb 18, 2026 8:08:23 AM ElPaisScraper analyzeWordFrequency
+INFO: 
+=== Word Frequency Analysis ===
+Feb 18, 2026 8:08:23 AM ElPaisScraper analyzeWordFrequency
+INFO: No words repeated more than twice
+Feb 18, 2026 8:08:23 AM ElPaisScraper generateReport
+INFO: Report generated: report_2026-02-18_08-08-23.txt
+Feb 18, 2026 8:08:23 AM ElPaisScraper main
+INFO: Browser closed successfully
+Feb 18, 2026 8:08:23 AM ElPaisScraper main
+INFO: === Scraper Completed ===
+Feb 18, 2026 8:08:23 AM ElPaisScraper main
+INFO: Success: 5 | Failures: 0
+Feb 18, 2026 8:14:55 AM ElPaisScraper main
+INFO: === El País Opinion Scraper Started ===
+Feb 18, 2026 8:14:56 AM ElPaisScraper navigateToOpinionSection
+INFO: Navigating to El País...
+Feb 18, 2026 8:15:01 AM ElPaisScraper navigateToOpinionSection
+INFO: Cookies accepted
+Feb 18, 2026 8:15:18 AM ElPaisScraper navigateToOpinionSection
+INFO: Navigated to Opinion section
+Feb 18, 2026 8:15:18 AM ElPaisScraper main
+INFO: Found 27 articles. Processing first 5...
+Feb 18, 2026 8:15:18 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: 
+=== Processing Article 1/5 ===
+Feb 18, 2026 8:15:28 AM ElPaisScraper scrapeArticle
+WARNING: Image not available for article 1
+Feb 18, 2026 8:15:30 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: ES: Cerrar la brecha educativa
+Feb 18, 2026 8:15:30 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: EN: Closing the educational gap
+Feb 18, 2026 8:15:31 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: 
+=== Processing Article 2/5 ===
+Feb 18, 2026 8:15:41 AM ElPaisScraper scrapeArticle
+WARNING: Image not available for article 2
+Feb 18, 2026 8:15:42 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: ES: Las amenazas electorales de Trump
+Feb 18, 2026 8:15:42 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: EN: Trump's electoral threats
+Feb 18, 2026 8:15:43 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: 
+=== Processing Article 3/5 ===
+Feb 18, 2026 8:15:53 AM ElPaisScraper scrapeArticle
+WARNING: Image not available for article 3
+Feb 18, 2026 8:15:54 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: ES: Me ha escrito un hombre rico, el dueño de Telegram
+Feb 18, 2026 8:15:54 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: EN: A rich man, the owner of Telegram, wrote to me
+Feb 18, 2026 8:15:55 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: 
+=== Processing Article 4/5 ===
+Feb 18, 2026 8:15:55 AM ElPaisScraper scrapeArticle
+INFO: Image saved: downloads/images/article_04_Toda esta libertad que no querría perder.jpg
+Feb 18, 2026 8:15:56 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: ES: Toda esta libertad que no querría perder
+Feb 18, 2026 8:15:56 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: EN: All this freedom that I wouldn't want to lose
+Feb 18, 2026 8:15:57 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: 
+=== Processing Article 5/5 ===
+Feb 18, 2026 8:15:57 AM ElPaisScraper scrapeArticle
+INFO: Image saved: downloads/images/article_05_Moteras iraníes.jpg
+Feb 18, 2026 8:15:58 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: ES: ‘Moteras iraníes’
+Feb 18, 2026 8:15:58 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: EN: 'Iranian bikers'
+Feb 18, 2026 8:15:59 AM ElPaisScraper analyzeWordFrequency
+INFO: 
+=== Word Frequency Analysis ===
+Feb 18, 2026 8:15:59 AM ElPaisScraper analyzeWordFrequency
+INFO: No words repeated more than twice
+Feb 18, 2026 8:15:59 AM ElPaisScraper generateReport
+INFO: Report generated: report_2026-02-18_08-15-59.txt
+Feb 18, 2026 8:16:00 AM ElPaisScraper main
+INFO: Browser closed successfully
+Feb 18, 2026 8:16:00 AM ElPaisScraper main
+INFO: === Scraper Completed ===
+Feb 18, 2026 8:16:00 AM ElPaisScraper main
+INFO: Success: 5 | Failures: 0
+Feb 18, 2026 8:48:47 AM ElPaisScraper main
+INFO: === El País Opinion Scraper Started ===
+Feb 18, 2026 8:48:49 AM ElPaisScraper navigateToOpinionSection
+INFO: Navigating to El País...
+Feb 18, 2026 8:49:08 AM ElPaisScraper navigateToOpinionSection
+INFO: Cookies accepted
+Feb 18, 2026 8:49:19 AM ElPaisScraper navigateToOpinionSection
+INFO: Navigated to Opinion section
+Feb 18, 2026 8:49:19 AM ElPaisScraper main
+INFO: Found 27 articles. Processing first 5...
+Feb 18, 2026 8:49:19 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: 
+=== Processing Article 1/5 ===
+Feb 18, 2026 8:49:29 AM ElPaisScraper scrapeArticle
+WARNING: Image not available for article 1
+Feb 18, 2026 8:49:31 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: ES: Cerrar la brecha educativa
+Feb 18, 2026 8:49:31 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: EN: Closing the educational gap
+Feb 18, 2026 8:49:32 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: 
+=== Processing Article 2/5 ===
+Feb 18, 2026 8:49:42 AM ElPaisScraper scrapeArticle
+WARNING: Image not available for article 2
+Feb 18, 2026 8:49:43 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: ES: Las amenazas electorales de Trump
+Feb 18, 2026 8:49:43 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: EN: Trump's electoral threats
+Feb 18, 2026 8:49:44 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: 
+=== Processing Article 3/5 ===
+Feb 18, 2026 8:49:54 AM ElPaisScraper scrapeArticle
+WARNING: Image not available for article 3
+Feb 18, 2026 8:49:55 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: ES: Me ha escrito un hombre rico, el dueño de Telegram
+Feb 18, 2026 8:49:55 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: EN: A rich man, the owner of Telegram, wrote to me
+Feb 18, 2026 8:49:56 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: 
+=== Processing Article 4/5 ===
+Feb 18, 2026 8:49:56 AM ElPaisScraper scrapeArticle
+INFO: Image saved: downloads/images/article_04_Toda esta libertad que no querría perder.jpg
+Feb 18, 2026 8:49:57 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: ES: Toda esta libertad que no querría perder
+Feb 18, 2026 8:49:57 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: EN: All this freedom that I wouldn't want to lose
+Feb 18, 2026 8:49:58 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: 
+=== Processing Article 5/5 ===
+Feb 18, 2026 8:49:59 AM ElPaisScraper scrapeArticle
+INFO: Image saved: downloads/images/article_05_Moteras iraníes.jpg
+Feb 18, 2026 8:50:00 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: ES: ‘Moteras iraníes’
+Feb 18, 2026 8:50:00 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: EN: 'Iranian bikers'
+Feb 18, 2026 8:50:01 AM ElPaisScraper analyzeWordFrequency
+INFO: 
+=== Word Frequency Analysis ===
+Feb 18, 2026 8:50:01 AM ElPaisScraper analyzeWordFrequency
+INFO: No words repeated more than twice
+Feb 18, 2026 8:50:01 AM ElPaisScraper generateReport
+INFO: Report generated: report_2026-02-18_08-50-01.txt
+Feb 18, 2026 8:50:01 AM ElPaisScraper main
+INFO: Browser closed successfully
+Feb 18, 2026 8:50:01 AM ElPaisScraper main
+INFO: === Scraper Completed ===
+Feb 18, 2026 8:50:01 AM ElPaisScraper main
+INFO: Success: 5 | Failures: 0
+Feb 18, 2026 8:54:14 AM ElPaisScraper main
+INFO: === El País Opinion Scraper Started ===
+
+Feb 18, 2026 8:54:38 AM ElPaisScraper main
+INFO: Found 27 articles. Processing first 5...
+
+Feb 18, 2026 8:54:38 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: --- Article 1 ---
+Feb 18, 2026 8:54:49 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (Spanish): Cerrar la brecha educativa
+Feb 18, 2026 8:54:49 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (English): Closing the educational gap
+Feb 18, 2026 8:54:49 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Content: Hay que poner los medios para que el éxito de España en la caída del abandono escolar alcance a los alumnos extranjeros
+Feb 18, 2026 8:54:49 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Image: No image available
+
+Feb 18, 2026 8:54:50 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: --- Article 2 ---
+Feb 18, 2026 8:55:01 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (Spanish): Las amenazas electorales de Trump
+Feb 18, 2026 8:55:01 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (English): Trump's electoral threats
+Feb 18, 2026 8:55:01 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Content: El presidente cuestiona con bulos la limpieza de los comicios de noviembre ante la perspectiva de una derrota
+Feb 18, 2026 8:55:01 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Image: No image available
+
+Feb 18, 2026 8:55:02 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: --- Article 3 ---
+Feb 18, 2026 8:55:13 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (Spanish): Me ha escrito un hombre rico, el dueño de Telegram
+Feb 18, 2026 8:55:13 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (English): A rich man, the owner of Telegram, wrote to me
+Feb 18, 2026 8:55:13 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Content: Regular las redes no tiene que ver con la libertad, sino con defender nuestra autonomía para pensar y sentir
+Feb 18, 2026 8:55:13 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Image: No image available
+
+Feb 18, 2026 8:55:14 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: --- Article 4 ---
+Feb 18, 2026 8:55:15 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (Spanish): Toda esta libertad que no querría perder
+Feb 18, 2026 8:55:15 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (English): All this freedom that I wouldn't want to lose
+Feb 18, 2026 8:55:15 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Content: El velo islámico no es un derecho individual; es la parte visible de una política sexual que pretende anular nuestra condición de sujetos deseantes
+Feb 18, 2026 8:55:15 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Image: downloads/images/article_04_Toda esta libertad que no querría perder.jpg
+
+Feb 18, 2026 8:55:16 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: --- Article 5 ---
+Feb 18, 2026 8:55:17 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (Spanish): ‘Moteras iraníes’
+Feb 18, 2026 8:55:17 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (English): 'Iranian bikers'
+Feb 18, 2026 8:55:17 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Content: En Irán, las mujeres no tienen reconocido oficialmente el derecho a conducir motocicletas y, por tanto, no se les conceden permisos. Aun así, las iraníes llevan años plantando cara a estas restricciones. Durante décadas han convertido sus propios cuerpos en herramientas de resistencia; cada vez que se suben a una moto toman una decisión consciente de traspasar los límites impuestos en nombre de la ley, la tradición o el miedo
+Feb 18, 2026 8:55:17 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Image: downloads/images/article_05_Moteras iraníes.jpg
+
+Feb 18, 2026 8:55:18 AM ElPaisScraper analyzeWordFrequency
+INFO: === Word Frequency Analysis ===
+Feb 18, 2026 8:55:18 AM ElPaisScraper analyzeWordFrequency
+INFO: No words repeated more than twice
+
+Feb 18, 2026 8:55:18 AM ElPaisScraper generateReport
+INFO: Report generated: report_2026-02-18_08-55-18.txt
+Feb 18, 2026 8:55:19 AM ElPaisScraper main
+INFO: 
+Browser closed successfully
+Feb 18, 2026 8:55:19 AM ElPaisScraper main
+INFO: 
+=== Scraper Completed ===
+Success: 5 | Failures: 0
+Feb 19, 2026 8:16:31 AM ElPaisScraper main
+INFO: === El País Opinion Scraper Started ===
+
+Feb 19, 2026 8:17:11 AM ElPaisScraper main
+INFO: Found 27 articles. Processing first 5...
+
+Feb 19, 2026 8:17:11 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: --- Article 1 ---
+Feb 19, 2026 8:17:23 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (Spanish): Catástrofe en la ayuda al desarrollo
+Feb 19, 2026 8:17:23 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (English): Catastrophe in development aid
+Feb 19, 2026 8:17:23 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Content: Los drásticos recortes de Trump, imitados por varios países, están condenando a la muerte o a la miseria a millones de personas
+Feb 19, 2026 8:17:23 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Image: No image available for this Article
+
+Feb 19, 2026 8:17:23 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: --- Article 2 ---
+Feb 19, 2026 8:17:34 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (Spanish): Perú necesita estabilidad
+Feb 19, 2026 8:17:34 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (English): Peru needs stability
+Feb 19, 2026 8:17:34 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Content: El Congreso destituye al presidente José Jerí apenas cuatro meses después de nombrarlo
+Feb 19, 2026 8:17:34 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Image: No image available for this Article
+
+Feb 19, 2026 8:17:34 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: --- Article 3 ---
+Feb 19, 2026 8:17:45 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (Spanish): Lo que no puede ser y además es imposible en el proyecto político de Gabriel Rufián
+Feb 19, 2026 8:17:45 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (English): What cannot be and is also impossible in Gabriel Rufián's political project
+Feb 19, 2026 8:17:45 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Content: La izquierda alternativa de hoy se parece más a la republicana del XIX, con sus pequeños partidos de notables, que a la obrera del siglo XX
+Feb 19, 2026 8:17:45 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Image: No image available for this Article
+
+Feb 19, 2026 8:17:45 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: --- Article 4 ---
+Feb 19, 2026 8:17:47 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (Spanish): ¡Cuídate, España, de tu propia España!
+Feb 19, 2026 8:17:47 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (English): Take care, Spain, of your own Spain!
+Feb 19, 2026 8:17:47 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Content: Nos hemos feudalizado bajo una democracia de taifas partidistas que guerrean entre sí sin concederse la menor tregua
+Feb 19, 2026 8:17:47 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Image: downloads/images/article_04_Cuídate España de tu propia España.jpg
+
+Feb 19, 2026 8:17:47 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: --- Article 5 ---
+Feb 19, 2026 8:17:49 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (Spanish): ‘Moteras iraníes’
+Feb 19, 2026 8:17:49 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Title (English): 'Iranian bikers'
+Feb 19, 2026 8:17:49 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Content: En Irán, las mujeres no tienen reconocido oficialmente el derecho a conducir motocicletas y, por tanto, no se les conceden permisos. Aun así, las iraníes llevan años plantando cara a estas restricciones. Durante décadas han convertido sus propios cuerpos en herramientas de resistencia; cada vez que se suben a una moto toman una decisión consciente de traspasar los límites impuestos en nombre de la ley, la tradición o el miedo
+Feb 19, 2026 8:17:49 AM ElPaisScraper scrapeAndTranslateArticles
+INFO: Image: downloads/images/article_05_Moteras iraníes.jpg
+
+Feb 19, 2026 8:17:49 AM ElPaisScraper analyzeWordFrequency
+INFO: === Word Frequency Analysis ===
+Feb 19, 2026 8:17:49 AM ElPaisScraper analyzeWordFrequency
+INFO: No words repeated more than twice
+
+Feb 19, 2026 8:17:49 AM ElPaisScraper generateReport
+INFO: Report generated: report_2026-02-19_08-17-49.txt
+Feb 19, 2026 8:17:49 AM ElPaisScraper main
+INFO: 
+Browser closed successfully
+Feb 19, 2026 8:17:49 AM ElPaisScraper main
+INFO: 
+=== Scraper Completed ===
+Success: 5 | Failures: 0
+Feb 19, 2026 9:31:57 AM ElPaisScraper_locally main
+INFO: === El País Opinion Scraper Started ===
+
+Feb 19, 2026 9:32:24 AM ElPaisScraper_locally main
+INFO: Found 27 articles. Processing first 5...
+
+Feb 19, 2026 9:32:24 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: --- Article 1 ---
+Feb 19, 2026 9:32:37 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Title (Spanish): Catástrofe en la ayuda al desarrollo
+Feb 19, 2026 9:32:37 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Title (English): Catastrophe in development aid
+Feb 19, 2026 9:32:37 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Content: Los drásticos recortes de Trump, imitados por varios países, están condenando a la muerte o a la miseria a millones de personas
+Feb 19, 2026 9:32:37 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Image: No image available for this Article
+
+Feb 19, 2026 9:32:37 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: --- Article 2 ---
+Feb 19, 2026 9:32:48 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Title (Spanish): Perú necesita estabilidad
+Feb 19, 2026 9:32:48 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Title (English): Peru needs stability
+Feb 19, 2026 9:32:48 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Content: El Congreso destituye al presidente José Jerí apenas cuatro meses después de nombrarlo
+Feb 19, 2026 9:32:48 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Image: No image available for this Article
+
+Feb 19, 2026 9:32:48 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: --- Article 3 ---
+Feb 19, 2026 9:32:59 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Title (Spanish): Lo que no puede ser y además es imposible en el proyecto político de Gabriel Rufián
+Feb 19, 2026 9:32:59 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Title (English): What cannot be and is also impossible in Gabriel Rufián's political project
+Feb 19, 2026 9:32:59 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Content: La izquierda alternativa de hoy se parece más a la republicana del XIX, con sus pequeños partidos de notables, que a la obrera del siglo XX
+Feb 19, 2026 9:32:59 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Image: No image available for this Article
+
+Feb 19, 2026 9:32:59 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: --- Article 4 ---
+Feb 19, 2026 9:33:00 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Title (Spanish): ¡Cuídate, España, de tu propia España!
+Feb 19, 2026 9:33:00 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Title (English): Take care, Spain, of your own Spain!
+Feb 19, 2026 9:33:00 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Content: Nos hemos feudalizado bajo una democracia de taifas partidistas que guerrean entre sí sin concederse la menor tregua
+Feb 19, 2026 9:33:00 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Image: downloads/images/article_04_Cuídate España de tu propia España.jpg
+
+Feb 19, 2026 9:33:00 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: --- Article 5 ---
+Feb 19, 2026 9:33:02 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Title (Spanish): ‘Moteras iraníes’
+Feb 19, 2026 9:33:02 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Title (English): 'Iranian bikers'
+Feb 19, 2026 9:33:02 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Content: En Irán, las mujeres no tienen reconocido oficialmente el derecho a conducir motocicletas y, por tanto, no se les conceden permisos. Aun así, las iraníes llevan años plantando cara a estas restricciones. Durante décadas han convertido sus propios cuerpos en herramientas de resistencia; cada vez que se suben a una moto toman una decisión consciente de traspasar los límites impuestos en nombre de la ley, la tradición o el miedo
+Feb 19, 2026 9:33:02 AM ElPaisScraper_locally scrapeAndTranslateArticles
+INFO: Image: downloads/images/article_05_Moteras iraníes.jpg
+
+Feb 19, 2026 9:33:02 AM ElPaisScraper_locally analyzeWordFrequency
+INFO: === Word Frequency Analysis ===
+Feb 19, 2026 9:33:02 AM ElPaisScraper_locally analyzeWordFrequency
+INFO: No words repeated more than twice
+
+Feb 19, 2026 9:33:02 AM ElPaisScraper_locally generateReport
+INFO: Report generated: report_2026-02-19_09-33-02.txt
+Feb 19, 2026 9:33:03 AM ElPaisScraper_locally main
+INFO: 
+Browser closed successfully
+Feb 19, 2026 9:33:03 AM ElPaisScraper_locally main
+INFO: 
+=== Scraper Completed ===
+Success: 5 | Failures: 0

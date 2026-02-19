@@ -1,0 +1,6 @@
+browserstack.username=YOUR_USERNAME_HERE
+browserstack.access_key=YOUR_ACCESS_KEY_HERE
+
+rapidapi.key=YOUR_RAPIDAPI_KEY_HERE
+rapidapi.host=google-translate113.p.rapidapi.com
+rapidapi.url=https://google-translate113.p.rapidapi.com/api/v1/2/translate

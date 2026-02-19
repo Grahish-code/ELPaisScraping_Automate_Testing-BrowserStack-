@@ -1,0 +1,37 @@
+=== El País Scraper Report ===
+Generated: 2026-02-19_08-17-49
+Total Articles: 5
+Success: 5
+Failures: 0
+
+=== Articles ===
+
+Article 1:
+Title(Spanish): Catástrofe en la ayuda al desarrollo
+Title(English): Catastrophe in development aid
+Content: Los drásticos recortes de Trump, imitados por varios países, están condenando a la muerte o a la miseria a millones de personas
+Image: N/A
+
+Article 2:
+Title(Spanish): Perú necesita estabilidad
+Title(English): Peru needs stability
+Content: El Congreso destituye al presidente José Jerí apenas cuatro meses después de nombrarlo
+Image: N/A
+
+Article 3:
+Title(Spanish): Lo que no puede ser y además es imposible en el proyecto político de Gabriel Rufián
+Title(English): What cannot be and is also impossible in Gabriel Rufián's political project
+Content: La izquierda alternativa de hoy se parece más a la republicana del XIX, con sus pequeños partidos de notables, que a la obrera del siglo XX
+Image: N/A
+
+Article 4:
+Title(Spanish): ¡Cuídate, España, de tu propia España!
+Title(English): Take care, Spain, of your own Spain!
+Content: Nos hemos feudalizado bajo una democracia de taifas partidistas que guerrean entre sí sin concederse la menor tregua
+Image: downloads/images/article_04_Cuídate España de tu propia España.jpg
+
+Article 5:
+Title(Spanish): ‘Moteras iraníes’
+Title(English): 'Iranian bikers'
+Content: En Irán, las mujeres no tienen reconocido oficialmente el derecho a conducir motocicletas y, por tanto, no se les conceden permisos. Aun así, las iraníes llevan años plantando cara a estas restricciones. Durante décadas han convertido sus propios cuerpos en herramientas de resistencia; cada vez que se suben a una moto toman una decisión consciente de traspasar los límites impuestos en nombre de la ley, la tradición o el miedo
+Image: downloads/images/article_05_Moteras iraníes.jpg
