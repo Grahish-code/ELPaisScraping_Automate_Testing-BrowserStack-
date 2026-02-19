@@ -39,14 +39,14 @@ public class OpinionPage {
                 data.index = i + 1;
                 WebElement article = articleElements.get(i);
 
-                // Force the mobile browser to scroll to the article so it renders the text
+                // In Iphone the articles moves to the bottom of the screen due to which we cant read their title and content so 
+                // forceing the mobile browser to scroll to the article so it renders the text
                 ((org.openqa.selenium.JavascriptExecutor) driver).executeScript(
                         "arguments[0].scrollIntoView({block: 'center'});", article);
 
-                // Give Safari a brief moment to render the lazy-loaded text
                 Thread.sleep(800);
 
-                // Title
+                //Get Title
                 try {
                     data.title = article.findElement(titleLocator).getText();
                     LOGGER.info(String.format("[%s] Title (Spanish): %s", sessionName, data.title));
@@ -54,20 +54,20 @@ public class OpinionPage {
                     data.title = "Untitled";
                 }
 
-                // Translation
+                //Get Translation via API
                 if (!data.title.isEmpty() && !data.title.equals("Untitled")) {
                     data.translatedTitle = ScraperUtils.translateText(data.title, apiUrl, apiKey, apiHost);
                     LOGGER.info(String.format("[%s] Title (English): %s", sessionName, data.translatedTitle));
                 }
 
-                // Content
+                //Get Content
                 try {
                     data.content = article.findElement(contentLocator).getText();
                 } catch (Exception e) {
                     data.content = "N/A";
                 }
 
-                // Image
+                //Get Image
                 try {
                     WebElement img = article.findElement(imageLocator);
                     String imgUrl = img.getAttribute("src");
