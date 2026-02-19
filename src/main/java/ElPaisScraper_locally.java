@@ -69,12 +69,12 @@ public class ElPaisScraper_locally {
         LOGGER.info(String.format("\n=== Scraper Completed ===\nSuccess: %d | Failures: %d", successCount, failureCount));
     }
 
-    // Initializing the driver
+    
     private static WebDriver initializeDriver() {
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
 
-        // Taking in consideration the load time of the browser wait for 10 sec
+        
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         return driver;
     }
