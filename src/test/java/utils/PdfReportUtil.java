@@ -34,7 +34,7 @@ public class PdfReportUtil {
             document.add(new Paragraph("Total Sessions: " + globalResults.size()));
             document.add(new Paragraph("\n\n"));
 
-            // Loop through each session result
+            
             for (SessionResult session : globalResults) {
                 // Section Header
                 Font sectionFont = FontFactory.getFont(FontFactory.HELVETICA_BOLD, 14);
@@ -96,7 +96,6 @@ public class PdfReportUtil {
                     }
                 }
 
-                // Page break between sessions
                 document.newPage();
             }
 
