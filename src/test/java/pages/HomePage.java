@@ -78,6 +78,7 @@ public class HomePage {
             link.click();
             LOGGER.info(String.format("[%s] Navigated to Opinión via link", sessionName));
         } catch (Exception e) {
+            //If by chance due to some responsivness of different devices we can't see Opinion then we direclty navigate it via link
             LOGGER.warning(String.format("[%s] Link not found, falling back to direct URL", sessionName));
             driver.get("https://elpais.com/opinion/");
             LOGGER.info(String.format("[%s] Navigated to Opinión via URL", sessionName));
