@@ -11,7 +11,6 @@ pages: Contains the Selenium locators and actions for the HomePage and OpinionPa
 utils: Contains helper functions for the translation API calls, saving images, and generating the final PDF report.
 tests: Contains the main TestNG test script. Because of the POM structure, this file just handles the test flow and assertions.
 
-Gemini said
 Challenges and Solutions
 
 iPhone Safari lazy loading issue
