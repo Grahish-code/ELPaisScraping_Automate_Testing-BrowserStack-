@@ -157,6 +157,8 @@ public class ElPaisScrapingTest {
 
                 bstackOptions.put("sessionName", browser.get("sessionName"));
 
+                bstackOptions.put("buildName", "El Pais Automation Suite");
+
                 caps.setCapability("bstack:options", bstackOptions);
                 configs.add(caps);
             }
